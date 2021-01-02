@@ -1,2 +1,2 @@
-# Galactic-Expanse-
+# Galactic Expanse
 The Fediverse Space
